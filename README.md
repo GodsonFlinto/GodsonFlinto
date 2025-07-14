@@ -1,8 +1,9 @@
 ## Hi I'm GODSON FLINTO J👋
 
 # 💫 About Me:
-🔭 I’m a Front End Developer<br>🤝 I'm a Final Year Student from IT Department<br>🌱 I’m currently learning React
-
+A passionate and hardworking B-Tech graduate in Information Technology from Bannari Amman Institute of
+Technology, seeking an opportunity to utilize my skills and knowledge to contribute to the growth of a dynamic
+organization.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/godsonflinto3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/godson-flinto-j-516867267/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:godsonflinto3@gmail.com) 
